@@ -1,0 +1,19 @@
+.container{
+    width:90%;
+    border-color :aquamarine;
+    padding:5px;
+    border :2px slid aqua
+}
+.item1{
+    display:inline-block;
+
+
+} 
+.item2, .item3{
+    display: inline-block;
+    width:300px;
+    margin-left:0px
+}
+img{
+    width: 200px;
+}
